@@ -1,4 +1,4 @@
-# 🧪 Quantum Enigmas – The Treasure Door (Qiskit Implementation)
+# Quantum Enigmas – The Treasure Door (Qiskit Implementation)
 
 ## 📌 About  
 This project is my practical implementation of the **"Treasure Door"** lesson from the [Quantum Enigmas](https://skillsbuild.org/) course on IBM SkillsBuild.  
