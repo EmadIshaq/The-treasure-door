@@ -66,9 +66,6 @@ Visualized quantum states and interpreted measurement results
 
 Strengthened skills in quantum simulation and circuit design
 
-🧠 Reflections
-This implementation helped me bridge the gap between abstract quantum concepts and practical experimentation. It’s part of my broader goal to build a portfolio of quantum projects that demonstrate both technical skill and learning progress.
-
 ✨ Author
 Emad – Self-taught quantum computing enthusiast with a passion for superposition, entanglement, and real-world quantum applications. Currently building a portfolio of quantum projects to showcase skills and explore career opportunities in inclusive environments.
 
